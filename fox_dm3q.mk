@@ -25,11 +25,10 @@
 OF_HIDE_NOTCH := 1
 OF_USE_GREEN_LED := 0
 OF_ALLOW_DISABLE_NAVBAR := 0
+OF_ADVANCED_SECURITY := 1
 
 # Maximum permissible splash image size (in kilobytes); do *NOT* increase
 OF_SPLASH_MAX_SIZE := 130
-
-OF_ADVANCED_SECURITY := 1
 
 # OrangeFox GUI settings
 OF_SCREEN_H := 2316
